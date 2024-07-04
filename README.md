@@ -61,7 +61,7 @@ DataSet Link: https://www.kaggle.com/datasets/mission-ai/crimeucfdataset
 
 3) **Pre-processing steps**:
     - Resizes each frame to (64,64,3)
-    - Normalize the resized frame by dividing it with 255 so that each pixel value then lies between 0 and 1
+    - Normalize the resized frame by dividing it with 255 so that each pixel value then lies between 0 and 1.
    
 ### **Data Pre-processing:**
   - As a crucial step in our workflow, preprocessing the video involves extracting individual frames and standardizing their dimensions for uniformity. By ensuring consistency in both height and length, we lay the foundation for accurate analysis and classification of video content.
